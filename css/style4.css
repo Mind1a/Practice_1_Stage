@@ -85,7 +85,7 @@ header .nav .no-decor {
 /*----------------Main part Start----------------*/
 
 .wrapper {
-  margin: 20px;
+  margin: 10px;
   width: 100%;
   display: flex;
   justify-content: space-around;
@@ -93,7 +93,7 @@ header .nav .no-decor {
 
 .methods-partial {
   background-color: white;
-  width: 360px;
+  width: 280px;
   border-radius: 5%;
   display: flex;
   flex-direction: column;
@@ -103,12 +103,9 @@ header .nav .no-decor {
 }
 
 .responsive-img {
-  width: 330px;
+  width: 80px;
   height: auto;
   border-radius: 5%;
-}
-
-.idNum {
 }
 
 /*----------------Main part End----------------*/

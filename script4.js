@@ -12,7 +12,7 @@ function displayWindowSize() {
   }
 }
 
-getData(4);
+displayWindowSize();
 
 function getData(counter) {
   fetch("https://jsonplaceholder.typicode.com/posts")
